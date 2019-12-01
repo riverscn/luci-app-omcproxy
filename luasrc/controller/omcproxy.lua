@@ -8,7 +8,7 @@ function index()
 		return
 	end
 
-	local page = entry({"admin", "services", "omcproxy"}, view("omcproxy/overview"), _("omcproxy"))
+	local page = entry({"admin", "services", "omcproxy"}, view("omcproxy"), _("omcproxy"))
 	page.dependent = true
 
 end
