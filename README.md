@@ -1,7 +1,7 @@
 # luci-app-omcproxy
 Luci application for omcproxy
 
-Notice:
+# Notice:
 
 luci-app-omcproxy now is a official luci app available in openwrt 21.02 or 19.07 branch.
 
